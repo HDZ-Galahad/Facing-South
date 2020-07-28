@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm [FacingSouth](https://www.facing-south.com) 👋
 
-<!--
-**Facing-South/Facing-South** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/_Facing_South_">
+  <img align="left" alt="FacingSouth | Twitter" width="21px" src="https://facing-south.com/img/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="FacingSouth" width="21px" src="https://facing-south.com/img/discord.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate C#/.NET developer and Flight-Simmer from Germany. Although I work professionally with C#, I still enjoy the advantages of other programming languages and the discover of new opportunities and approaches to develop software for all platforms.
+
+- 🔭 I’m currently working on my project [GreenHouse](https://github.com/Facing-South/GreenHouse)
+- 🌱 I’m currently learning Electron / Javascript, HTML, CSS
+- 👯 I’m looking to collaborate on a Discord- or Telegram-C#-Bot
+- 💬 Ask me about anything [here](https://www.facing-south.com)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://facing-south.com/img/csharp.png"></code>
+<code><img height="20" src="https://facing-south.com/img/python.png"></code>
+<code><img height="20" src="https://facing-south.com/img/javascript.png"></code>
+<code><img height="20" src="https://facing-south.com/img/nodejs.png"></code>
+<code><img height="20" src="https://facing-south.com/img/html.png"></code>
