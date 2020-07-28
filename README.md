@@ -13,8 +13,9 @@ I'm a passionate C#/.NET developer and Flight-Simmer from Germany. Although I wo
 
 - 🔭 I’m currently working on my project [GreenHouse](https://github.com/Facing-South/GreenHouse)
 - 🌱 I’m currently learning Electron / Javascript, HTML, CSS
-- 👯 I’m looking to collaborate on a Discord- or Telegram-C#-Bot
+- 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything [here](https://www.facing-south.com)
+- ⚡ Fun fact: I am german, we do not have fun 🤷‍♂️
 
 **Languages and Tools:**  
 
