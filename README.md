@@ -8,6 +8,7 @@
 </a>
 
 <br />
+<br />
 
 I'm a passionate C#/.NET developer and Flight-Simmer from Germany. Although I work professionally with C#, I still enjoy the advantages of other programming languages and the discover of new opportunities and approaches to develop software for all platforms.
 
