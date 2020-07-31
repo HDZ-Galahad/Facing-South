@@ -10,7 +10,7 @@
 <br />
 <br />
 
-I'm a passionate developer and Flight-Simmer from Germany. Although I work professionally with C#, I still enjoy the advantages of other programming languages and the discover of new opportunities and approaches to develop software for all platforms.
+I'm a passionate developer and Flight-Simmer from Germany. Although I work professionally with C#, I still enjoy the advantages of other programming languages and the discover of new opportunities and approaches to develop software for all platforms. At the moment I am very busy with JavaScript and associated with it Ajax, Knockout and jQuery in order to get a safe stand with the use of Node.js and the web development. In addition, there are also HTML and CSS, whereby I use Bootstrap as a framework for CSS and find it absolutely great.
 
 - 🔭 I’m currently working on my project [GreenHouse](https://github.com/Facing-South/GreenHouse)
 - 🌱 I’m currently learning Electron / Javascript, HTML, CSS
