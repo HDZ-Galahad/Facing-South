@@ -1,4 +1,4 @@
-### Hi there, I'm [FacingSouth](https://www.facing-south.com) 👋
+### Hi there, I'm FacingSouth 👋
 
 <a href="https://twitter.com/_Facing_South_">
   <img align="left" alt="FacingSouth | Twitter" width="21px" src="https://facing-south.com/img/twitter.svg" />
@@ -15,7 +15,7 @@ I'm a passionate developer and Flight-Simmer from Germany. Although I work profe
 - 🔭 I’m currently working on my projects [Nathan's Level-Bot](https://github.com/Facing-South/NathansLevelBot) and [Green-House](https://github.com/Facing-South/GreenHouse)
 - 🌱 I’m learning Electron / Javascript, HTML, CSS
 - 🧑‍💻 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything [here](https://www.facing-south.com)
+- :airplane: Visit my virtual airline [Airfox](https://www.airfox-virtual.de)
 - ⚡ Fun fact: I am german, we do not have fun 🤷‍♂️
 
 **Languages and Tools:**  
