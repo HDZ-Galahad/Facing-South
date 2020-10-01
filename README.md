@@ -1,5 +1,9 @@
 ### Hi there, I'm FacingSouth 👋
 
+<p align="center">
+  <img src="http://www.facing-south.com/img/a320neo_loww.png" width="30%">
+</p>
+
 <a href="https://discord.gg/C3gfHBJ">
   <img align="left" alt="FacingSouth" width="21px" src="http://facing-south.com/img/discord.svg" />
 </a>
