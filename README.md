@@ -1,10 +1,7 @@
 ### Hi there, I'm FacingSouth 👋
 
-<a href="https://twitter.com/_Facing_South_">
-  <img align="left" alt="FacingSouth | Twitter" width="21px" src="https://facing-south.com/img/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="FacingSouth" width="21px" src="https://facing-south.com/img/discord.svg" />
+<a href="https://discord.gg/C3gfHBJ">
+  <img align="left" alt="FacingSouth" width="21px" src="http://facing-south.com/img/discord.svg" />
 </a>
 
 <br />
