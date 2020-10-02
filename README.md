@@ -21,8 +21,8 @@ I'm a passionate developer and Flight-Simmer from Germany. Although I work profe
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://facing-south.com/img/csharp.png"></code>
-<code><img height="20" src="https://facing-south.com/img/python.png"></code>
-<code><img height="20" src="https://facing-south.com/img/javascript.png"></code>
-<code><img height="20" src="https://facing-south.com/img/nodejs.png"></code>
-<code><img height="20" src="https://facing-south.com/img/html.png"></code>
+<code><img height="20" src="http://facing-south.com/img/csharp.png"></code>
+<code><img height="20" src="http://facing-south.com/img/python.png"></code>
+<code><img height="20" src="http://facing-south.com/img/javascript.png"></code>
+<code><img height="20" src="http://facing-south.com/img/nodejs.png"></code>
+<code><img height="20" src="http://facing-south.com/img/html.png"></code>
