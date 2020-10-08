@@ -8,6 +8,7 @@ I'm a passionate developer and Flight-Simmer from Germany. Although I work profe
 - :airplane: Visit my virtual airline [https://www.airfox-virtual.de](https://www.airfox-virtual.de)
 - ⚡ Fun fact: I am german, we do not have fun 🤷‍♂️
 - :phone: Contact me here: [https://discord.gg/C3gfHBJ](https://discord.gg/C3gfHBJ)
+- :sparkles: Submit a donation here: [https://www.patreon.com/FacingSouth](https://www.patreon.com/FacingSouth)
 
 **Languages and Tools:**  
 
