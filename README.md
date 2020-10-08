@@ -1,7 +1,5 @@
 ### Hi there, I'm FacingSouth 👋
 
-<img src="http://www.facing-south.com/img/Header.png"/>
-
 I'm a passionate developer and Flight-Simmer from Germany. Although I work professionally with C#, I still enjoy the advantages of other programming languages and the discover of new opportunities and approaches to develop software for all platforms. 
 
 - 🔭 I’m currently working on my skills with C#, JavaScript and Python 
