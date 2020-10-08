@@ -7,7 +7,7 @@ I'm a passionate developer and Flight-Simmer from Germany. Although I work profe
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - :airplane: Visit my virtual airline [https://www.airfox-virtual.de](https://www.airfox-virtual.de)
 - ⚡ Fun fact: I am german, we do not have fun 🤷‍♂️
-- :phone: Contact me here (Discord): [https://discord.gg/C3gfHBJ](https://discord.gg/C3gfHBJ)
+- :phone: Contact me here: [https://discord.gg/C3gfHBJ](https://discord.gg/C3gfHBJ)
 
 **Languages and Tools:**  
 
