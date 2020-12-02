@@ -2,7 +2,7 @@
 
 I'm a passionate developer and Flight-Simmer from Germany. Although I work professionally with C#, I still enjoy the advantages of other programming languages and the discover of new opportunities and approaches to develop software for all platforms. 
 
-- 🔭 I’m currently working on my skills with C#, JavaScript and Python 
+- 🔭 My strongest weapons are C# and Python
 - 🌱 I don`t like building GUIs 
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - :airplane: Visit my virtual airline [https://www.airfox-virtual.de](https://www.airfox-virtual.de)
