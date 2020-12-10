@@ -1,6 +1,11 @@
 ### Hi there, I'm FacingSouth 👋
 
-I'm a passionate developer and Flight-Simmer from Germany. Although I work professionally with C#, I still enjoy the advantages of other programming languages and the discover of new opportunities and approaches to develop software for all platforms. 
+Hi everyone, my name is FacingSouth and I work as a software developer in Cologne, Germany. In addition to my daily work with C #, Python and JavaScript, I love trying out everything that the world of software development has to offer. One of my biggest hobbies is my virtual airline called Airfox, which I founded together with 3 other flight simulator enthusiasts. I would be very happy to collaborate on my repositories at any time. Visit me on my Discord server if you want to get in touch with me.</br></br> Kind regards,</br> FacingSouth
+
+[![Discord](https://img.shields.io/discord/641713710087405589.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/C3gfHBJ) 
+<span class="badge-patreon">
+<a href="https://www.patreon.com/FacingSouth" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
+</span>
 
 - 🔭 My strongest weapons are C# and Python
 - 🌱 I don`t like building GUIs 
