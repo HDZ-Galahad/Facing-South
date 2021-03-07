@@ -17,8 +17,6 @@ Hi everyone, my name is FacingSouth and I work as a software developer in Cologn
 <code><img height="20" src="https://airfox-virtual.de/storage/nodejs.png"></code>
 <code><img height="20" src="https://airfox-virtual.de/storage/html.png"></code>
 
-**Donate**
-</br>
 <span class="badge-patreon">
 <a href="https://www.patreon.com/FacingSouth" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
 </span>
