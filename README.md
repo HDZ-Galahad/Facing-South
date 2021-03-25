@@ -6,8 +6,8 @@ I am the founder and developer of the following communities:
 
 | Name               | Website                                                        | Discord                                                        |
 | :----------------- |:-------------------------------------------------------------- | :------------------------------------------------------------- |
-| <img height="20" src="https://avatars.githubusercontent.com/u/81357962?s=200&v=4"> Haus der Zeitalter | [COMING SOON](https://github.com/HDZ-Galahad)                  | [https://discord.gg/Z2ZMPsWq6y](https://discord.gg/Z2ZMPsWq6y) |
-| <img height="20" src="https://avatars.githubusercontent.com/u/72444340?s=200&v=4"> Airfox-Virtual     | [https://www.airfox-virtual.de](https://www.airfox-virtual.de) | [https://discord.gg/8S98kKrKKB](https://discord.gg/8S98kKrKKB) |
+| <img height="15" src="https://avatars.githubusercontent.com/u/81357962?s=200&v=4"> Haus der Zeitalter | [COMING SOON](https://github.com/HDZ-Galahad)                  | [https://discord.gg/Z2ZMPsWq6y](https://discord.gg/Z2ZMPsWq6y) |
+| <img height="15" src="https://avatars.githubusercontent.com/u/72444340?s=200&v=4"> Airfox-Virtual     | [https://www.airfox-virtual.de](https://www.airfox-virtual.de) | [https://discord.gg/8S98kKrKKB](https://discord.gg/8S98kKrKKB) |
 
 I am happy about any kind of collaboration on my projects. So please do not hesitate to contact me if you have any suggestions, requests for changes or ideas that I could still implement. Here is the link to my private Discord server, where I can always be reached: [https://discord.gg/cEbbk29YW9](https://discord.gg/cEbbk29YW9)
 <br><br>
