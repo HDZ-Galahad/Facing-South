@@ -1,18 +1,19 @@
 ### Hi there, I'm HDZ_Galahad 👋
 
-and I work as a software developer in Cologne, Germany. In addition to my daily work with C #, Python and JavaScript, I love trying out everything that the world of software development has to offer. Next to the virtual airline called Airfox, which I founded together with 3 other flight simulator enthusiastsm I am the founder of the german gaming-community "Haus der Zeitalter (House of Ages)", where we can enjoy our evening together with a cozy game. I would be very happy to collaborate on my repositories at any time.</br></br> Kind regards,</br> HDZ_Galahad
+and I work as a software developer in Cologne, Germany. In addition to my daily work with C #, Python JavaScript and a lot of SQL, I love trying out everything that the world of software development has to offer. In my spare time I primarily develop bots, websites and applications related to the gaming area. It is always nice to be able to live out your hobby with others, which is why my developments are intended to make life easier for gamers in particular, but also to promote cooperation. 
 
-- 🔭 My strongest weapons are Python and C#
-- 🌱 I don`t like building GUIs 
-- 🧑‍💻 I’m looking to collaborate on open source projects
-- :airplane: Visit my virtual airline [https://www.airfox-virtual.de](https://www.airfox-virtual.de)
-- :video_game: Visit my gaming-community [https://www.airfox-virtual.de](https://www.airfox-virtual.de)
-- ⚡ Fun fact: I am german, we do not have fun 🤷‍♂️
+I am the founder and developer of the following communities: 
 
-**Languages and Tools:**  
+| Name               | Website                                                        | Discord                                                        |
+| :----------------- |:-------------------------------------------------------------- | :------------------------------------------------------------- |
+| Haus der Zeitalter | [COMING SOON](https://github.com/HDZ-Galahad)                  | [https://discord.gg/Z2ZMPsWq6y](https://discord.gg/Z2ZMPsWq6y) |
+| Airfox-Virtual     | [https://www.airfox-virtual.de](https://www.airfox-virtual.de) | [https://discord.gg/8S98kKrKKB](https://discord.gg/8S98kKrKKB) |
 
-<code><img height="20" src="https://airfox-virtual.de/storage/csharp.png"></code>
-<code><img height="20" src="https://airfox-virtual.de/storage/python.png"></code>
-<code><img height="20" src="https://airfox-virtual.de/storage/javascript.png"></code>
-<code><img height="20" src="https://airfox-virtual.de/storage/nodejs.png"></code>
-<code><img height="20" src="https://airfox-virtual.de/storage/html.png"></code>
+I am happy about any kind of collaboration on my projects. So please do not hesitate to contact me if you have any suggestions, requests for changes or ideas that I could still implement. Here is the link to my private Discord server, where I can always be reached: [https://discord.gg/cEbbk29YW9](https://discord.gg/cEbbk29YW9)
+<br><br>
+Do you have your own project that you could use some help with? I love the spirit of the open source community and I'm always happy to help out with this in mind! 
+
+Kind regards,
+<br><br>
+HDZ_Galahad ✌️
+
