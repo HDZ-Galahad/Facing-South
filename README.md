@@ -1,8 +1,8 @@
 ### Hi there, I'm Paul 👋
 
-and I work as a software developer in Cologne, Germany. In addition to my daily work with C#, Python, JavaScript and a lot of PL/SQL, I love trying out everything that the world of software development has to offer. In my spare time I primarily develop bots, websites and applications related to the gaming area. It is always nice to be able to live out your hobby with others, which is why my developments are intended to make life easier for gamers in particular, but also to promote cooperation. 
+and I work as a software developer in Cologne, Germany. In addition to my daily work with C#, Python, JavaScript and a lot of PL/SQL, I love trying out everything that the world of software development has to offer. In my spare time I primarily develop bots, websites and applications related to every area. It is always nice to be able to live out your hobby with others, which is why my developments are intended to make life easier for people especially for those who want to work together. 
 
-I am the founder and developer of the following communities: 
+In my free time, in addition to my software development, I have so far created a virtual airline for the flight simulator fans and founded a general gaming community. Both communities are well received and are getting bigger every day, which I am personally very happy about. If you don't mind that there are German communities, you can visit them here: 
 
 | Name               | Website                                                        | Discord                                                        |
 | :----------------- |:-------------------------------------------------------------- | :------------------------------------------------------------- |
