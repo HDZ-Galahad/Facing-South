@@ -9,7 +9,7 @@ I am the founder and developer of the following communities:
 | <img height="15" src="https://www.haus-der-games.de/static/images/controller.png"> Haus der Games | [https://www.haus-der-games.de](https://www.haus-der-games.de)                  | [https://discord.gg/ZyyQNxZgKP](https://discord.gg/ZyyQNxZgKP) |
 | <img height="15" src="https://avatars.githubusercontent.com/u/72444340?s=200&v=4"> Airfox-Virtual     | [https://www.airfox-virtual.de](https://www.airfox-virtual.de) | [https://discord.gg/8S98kKrKKB](https://discord.gg/8S98kKrKKB) |
 
-I am happy about any kind of collaboration on my projects. So please do not hesitate to contact me if you have any suggestions, requests for changes or ideas that I could still implement. Here is the link to my private Discord server, where I can always be reached: [https://discord.gg/cEbbk29YW9](https://discord.gg/cEbbk29YW9)
+I am happy about any kind of collaboration on my projects. So please do not hesitate to contact me if you have any suggestions, requests for changes or ideas that I could still implement. 
 <br><br>
 Do you have your own project that you could use some help with? I love the spirit of the open source community and I'm always happy to help out with this in mind! 
 
