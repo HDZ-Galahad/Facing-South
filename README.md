@@ -1,4 +1,4 @@
-### Hi there, I'm HDZ_Galahad 👋
+### Hi there, Paul 👋
 
 and I work as a software developer in Cologne, Germany. In addition to my daily work with C #, Python JavaScript and a lot of SQL, I love trying out everything that the world of software development has to offer. In my spare time I primarily develop bots, websites and applications related to the gaming area. It is always nice to be able to live out your hobby with others, which is why my developments are intended to make life easier for gamers in particular, but also to promote cooperation. 
 
@@ -15,6 +15,6 @@ Do you have your own project that you could use some help with? I love the spiri
 
 Kind regards,
 <br><br>
-HDZ_Galahad ✌️
+Paul ✌️
 
 <a href="https://www.buymeacoffee.com/hdz_galahad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
