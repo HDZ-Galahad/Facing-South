@@ -1,6 +1,6 @@
 ### Hi there, I'm Paul 👋
 
-and I work as a software developer in Cologne, Germany. In addition to my daily work with C #, Python JavaScript and a lot of SQL, I love trying out everything that the world of software development has to offer. In my spare time I primarily develop bots, websites and applications related to the gaming area. It is always nice to be able to live out your hobby with others, which is why my developments are intended to make life easier for gamers in particular, but also to promote cooperation. 
+and I work as a software developer in Cologne, Germany. In addition to my daily work with C#, Python JavaScript and a lot of SQL, I love trying out everything that the world of software development has to offer. In my spare time I primarily develop bots, websites and applications related to the gaming area. It is always nice to be able to live out your hobby with others, which is why my developments are intended to make life easier for gamers in particular, but also to promote cooperation. 
 
 I am the founder and developer of the following communities: 
 
