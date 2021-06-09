@@ -1,20 +1,9 @@
-### Hi there, I'm Paul 👋
+<img align="left" src="https://pbs.twimg.com/profile_images/1382024021672390660/RrtbTdi5_400x400.jpg" width=300/>
 
-and I work as a software developer in Cologne, Germany. In addition to my daily work with C#, Python, JavaScript and a lot of PL/SQL, I love trying out everything that the world of software development has to offer. In my spare time I primarily develop bots, websites and applications related to every area. It is always nice to be able to live out your hobby with others, which is why my developments are intended to make life easier for people especially for those who want to work together. 
-
-In my free time, in addition to my software development, I have so far created a virtual airline for the flight simulator fans and founded a general gaming community. Both communities are well received and are getting bigger every day, which I am personally very happy about. If you don't mind that they are german communities, you can visit them here: 
-
-| Name               | Website                                                        | Discord                                                        |
-| :----------------- |:-------------------------------------------------------------- | :------------------------------------------------------------- |
-| <img height="15" src="https://www.haus-der-games.de/static/images/controller.png"> Haus der Games | [https://www.haus-der-games.de](https://www.haus-der-games.de)                  | [https://discord.gg/ZyyQNxZgKP](https://discord.gg/ZyyQNxZgKP) |
-| <img height="15" src="https://avatars.githubusercontent.com/u/72444340?s=200&v=4"> Airfox-Virtual     | [https://www.airfox-virtual.de](https://www.airfox-virtual.de) | [https://discord.gg/8S98kKrKKB](https://discord.gg/8S98kKrKKB) |
-
-I am happy about any kind of collaboration on my projects. So please do not hesitate to contact me if you have any suggestions, requests for changes or ideas that I could still implement. 
-<br><br>
-Do you have your own project that you could use some help with? I love the spirit of the open source community and I'm always happy to help out with this in mind! 
+### Hi there 👋
+I'm Paul and a passionate software developer. Professionally I work in Cologne with various development languages like Python, C#, JavaScript, PhP and PL/SQL and more. During the day I work on implementing artificial intelligence and interfaces for various industries and in the evenings I dabble in pixel-art game development as a hobby.
 
 Kind regards,
 <br><br>
 Paul ✌️
 
-<a href="https://www.buymeacoffee.com/wnzlff" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
