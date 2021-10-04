@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/wnzlff/pygame-rpg/blob/main/src/img/player/idle.png" />
+<!-- <img align="right" src="https://github.com/wnzlff/pygame-rpg/blob/main/src/img/player/idle.png" /> -->
 
 ### Hi there 👋
 I'm Paul and a passionate software developer. Professionally I work in Cologne with various development languages like Python, C#, JavaScript, PhP and PL/SQL and more. During the day I work on implementing artificial intelligence and interfaces for various industries and in the evenings I dabble in pixel-art game development as a hobby.
